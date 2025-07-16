@@ -26,5 +26,8 @@ Aplicativo Android desenvolvido em **Kotlin**, com foco em autenticação modern
 1. Clone este repositório:
    git clone https://github.com/seu-usuario/secure-login-kotlin.git
 
-   
+
+Este projeto foi criado com fins educacionais e para praticar:
+
+Boas práticas de desenvolvimento Android com Kotlinb - Integração com serviços de autenticação modernos - Segurança e usabilidade no login de apps móveis
 
